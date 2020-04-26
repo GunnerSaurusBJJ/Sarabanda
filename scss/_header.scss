@@ -208,6 +208,7 @@
    }
 }
 
+
 .header-finder {
    display: flex;
    align-items: center;
@@ -231,9 +232,9 @@
       width: 500px;
       border-right: 1px solid rgba(157, 159, 162, 0.4);
 
-      &::-ms-clear {
-         display: none;
-      }
+
+
+
 
       @media(max-width:1200px) {
          height: 40px;
